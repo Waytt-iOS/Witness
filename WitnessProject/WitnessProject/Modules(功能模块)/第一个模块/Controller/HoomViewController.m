@@ -19,6 +19,9 @@
     self.view.backgroundColor = [UIColor purpleColor];
     
 
+/****
+ jdfhldsflskdhglsghlshgslgsklgslk
+ */
 }
 
 - (void)didReceiveMemoryWarning {

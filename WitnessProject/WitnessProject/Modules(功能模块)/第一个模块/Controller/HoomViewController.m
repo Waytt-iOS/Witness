@@ -17,8 +17,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor purpleColor];
-   
-    NSLog(@"123");
+    UIView *view = [[UIView alloc]init];
 
 
 }

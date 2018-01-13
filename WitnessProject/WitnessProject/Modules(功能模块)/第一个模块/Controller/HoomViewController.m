@@ -18,6 +18,7 @@
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor purpleColor];
     UIView *view = [[UIView alloc]init];
+    //这是在Mac book pro 上的操作
 
 
 }
